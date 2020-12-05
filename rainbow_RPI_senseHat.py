@@ -1,5 +1,4 @@
 #!/bin/python3
-
 from sense_hat import SenseHat
 
 sense = SenseHat()
@@ -12,6 +11,9 @@ g = [0,255,0]
 b = [0,0,255]
 n = [106,84,128]
 p = [89,0,94]
+
+
+
 
 
 '''
