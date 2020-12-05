@@ -26,11 +26,11 @@ my_rainbow =  [
   r,r,r,r,r,r,r,r,
   r,o,o,o,o,o,o,o,
   r,y,y,y,y,y,y,y,
-  g,g,g,g,g,g,g,g,
+  r,g,g,g,g,g,g,g,
   r,b,b,b,b,b,b,b,
-  n,n,n,n,n,n,n,n,
-  p,p,p,p,p,p,p,p,
-  p,p,p,p,p,p,p,p
+  r,n,n,n,n,n,n,n,
+  r,p,p,p,p,p,p,p,
+  r,p,p,p,p,p,p,p
   ]
 
 sense.set_pixels(my_rainbow)
